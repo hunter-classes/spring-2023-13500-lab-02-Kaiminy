@@ -13,10 +13,8 @@ for (i=0;i<10;i++){
 }
   do{
     for (i=0;i<10;i++){
-      cout<<myData[i]<<" "<<endl;
-      
+      cout<<myData[i]<<" "<<endl; 
     }
-    
     cout<<"Enter in spot of index:";
     cin>>location;
     cout<<"Enter number:";
